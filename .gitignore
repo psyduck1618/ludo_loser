@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+
+# Xcode build output
+build/
+DerivedData/
+
+# User-specific project files (safe to ignore)
+xcuserdata/
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+
+# CocoaPods (if you ever use it)
+Pods/
+
+# Carthage (if you ever use it)
+Carthage/Build/
